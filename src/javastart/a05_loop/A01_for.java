@@ -57,18 +57,18 @@ public class A01_for {
 		*}
 		*};
 		**/
-		
-		
+		//11
+		System.out.println("=============");
 		for (grade=2;grade<=9;grade++)
-			System.out.print(grade+"단\t");
-			System.out.println();
-			for(int cnt=1;cnt<=9;cnt++){
-					for(grade=2;grade<=9;grade++){
-						System.out.print(grade+"*"+cnt+"="+(grade*cnt)+"\t");
-			}
-			//줄바꿈 처리
-					System.out.println();
-			}
+			{System.out.print(grade+"단\t");}
+		System.out.println();
+		for(int cnt=1;cnt<=9;cnt++){
+				for(grade=2;grade<=9;grade++){
+					System.out.print(grade+"*"+cnt+"="+(grade*cnt)+"\t");
+		}
+		//줄바꿈 처리
+				System.out.println();
+		}
 			
 		
 		

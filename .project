@@ -28,4 +28,21 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>clientPrg</name>
+			<type>2</type>
+			<location>C:/java/clientPrg</location>
+		</link>
+		<link>
+			<name>workspace1</name>
+			<type>2</type>
+			<locationURI>PARENT-3-PROJECT_LOC/DATA/workspace1</locationURI>
+		</link>
+		<link>
+			<name>WebContent/clientPrg</name>
+			<type>2</type>
+			<locationURI>PARENT-2-PROJECT_LOC/clientPrg</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
